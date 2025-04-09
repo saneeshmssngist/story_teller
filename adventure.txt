@@ -2,49 +2,49 @@
   "data": [
     {
       "id": 1,
-      "image_url": "https://raw.githubusercontent.com/saneeshmssngist/story_teller/refs/heads/main/IMG_001.JPG",
+      "image_url": "https://raw.githubusercontent.com/saneeshmssngist/story_teller/refs/heads/main/CATEGORY/st_01.JPG",
       "audio_url": "https://drive.usercontent.google.com/download?id=1o3i1JY-4WO8PQSvPNCv51tw47RPHI2qG",
       "title": "test1"
     },
     {
       "id": 2,
-      "image_url": "https://drive.usercontent.google.com/download?id=1IpUaGV1dtZV5mZI2bGWM6puYv5f7SLWs",
+      "image_url": "https://raw.githubusercontent.com/saneeshmssngist/story_teller/refs/heads/main/CATEGORY/st_02.JPG",
       "audio_url": "https://drive.usercontent.google.com/download?id=1o3i1JY-4WO8PQSvPNCv51tw47RPHI2qG",
       "title": "test2"
     },
     {
       "id": 3,
-      "image_url": "https://drive.usercontent.google.com/download?id=11Z4w3WKWZRKNtKktSUlXNZ5t14i33vFt",
+      "image_url": "https://raw.githubusercontent.com/saneeshmssngist/story_teller/refs/heads/main/CATEGORY/st_03.JPG",
       "audio_url": "https://drive.usercontent.google.com/download?id=1o3i1JY-4WO8PQSvPNCv51tw47RPHI2qG",
       "title": "test3"
     },
     {
       "id": 4,
-      "image_url": "https://drive.usercontent.google.com/download?id=1kUtHIUWRO1TAb7CJ6YgE5Wg-6IbZLx3M",
+      "image_url": "https://raw.githubusercontent.com/saneeshmssngist/story_teller/refs/heads/main/CATEGORY/st_04.JPG",
       "audio_url": "https://drive.usercontent.google.com/download?id=1o3i1JY-4WO8PQSvPNCv51tw47RPHI2qG",
       "title": "test4"
     },
     {
       "id": 5,
-      "image_url": "https://drive.usercontent.google.com/download?id=1wO8qu6xaTvXWmZ9b2xQ9M2bZW1F8itAX",
+      "image_url": "https://raw.githubusercontent.com/saneeshmssngist/story_teller/refs/heads/main/CATEGORY/st_05.JPG",
       "audio_url": "https://drive.usercontent.google.com/download?id=1o3i1JY-4WO8PQSvPNCv51tw47RPHI2qG",
       "title": "test4"
     },
     {
       "id": 6,
-      "image_url": "https://drive.usercontent.google.com/download?id=1vOiC2D3aw58Mog6jqFBROxtSq4ONTySW",
+      "image_url": "https://raw.githubusercontent.com/saneeshmssngist/story_teller/refs/heads/main/CATEGORY/st_06.JPG",
       "audio_url": "https://drive.usercontent.google.com/download?id=1o3i1JY-4WO8PQSvPNCv51tw47RPHI2qG",
       "title": "test4"
     },
     {
       "id": 7,
-      "image_url": "https://drive.usercontent.google.com/download?id=1w5Sk8Tg5upWmcGk-zowDsgQiIhvKAKy9",
+      "image_url": "https://raw.githubusercontent.com/saneeshmssngist/story_teller/refs/heads/main/CATEGORY/st_07.JPG",
       "audio_url": "https://drive.usercontent.google.com/download?id=1o3i1JY-4WO8PQSvPNCv51tw47RPHI2qG",
       "title": "test4"
     },
     {
       "id": 8,
-      "image_url": "https://drive.usercontent.google.com/download?id=12v5i6Dlr0BP6p9X0ZAKggEDLYi8iM3p-",
+      "image_url": "https://raw.githubusercontent.com/saneeshmssngist/story_teller/refs/heads/main/CATEGORY/st_08.JPG",
       "audio_url": "https://drive.usercontent.google.com/download?id=1o3i1JY-4WO8PQSvPNCv51tw47RPHI2qG",
       "title": "test4"
     }
