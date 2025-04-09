@@ -4,49 +4,51 @@
       "id": 1,
       "image_url": "https://raw.githubusercontent.com/saneeshmssngist/story_teller/refs/heads/main/CATEGORY/st_01.JPG",
       "audio_url": "https://drive.usercontent.google.com/download?id=1o3i1JY-4WO8PQSvPNCv51tw47RPHI2qG",
-      "title": "test1"
+      "title": "Funny Stories"
     },
     {
       "id": 2,
-      "image_url": "https://raw.githubusercontent.com/saneeshmssngist/story_teller/refs/heads/main/CATEGORY/st_02.JPG",
+      "image_url": "https://raw.githubusercontent.com/saneeshmssngist/story_teller/refs/heads/main/CATEGORY/st_07.JPG",
       "audio_url": "https://drive.usercontent.google.com/download?id=1o3i1JY-4WO8PQSvPNCv51tw47RPHI2qG",
-      "title": "test2"
+      "title": "Adventure Stories"
+    
     },
     {
       "id": 3,
-      "image_url": "https://raw.githubusercontent.com/saneeshmssngist/story_teller/refs/heads/main/CATEGORY/st_03.JPG",
+      "image_url": "https://raw.githubusercontent.com/saneeshmssngist/story_teller/refs/heads/main/CATEGORY/st_06.JPG",
       "audio_url": "https://drive.usercontent.google.com/download?id=1o3i1JY-4WO8PQSvPNCv51tw47RPHI2qG",
-      "title": "test3"
+      "title": "Heroic Stories"
+     
     },
     {
       "id": 4,
       "image_url": "https://raw.githubusercontent.com/saneeshmssngist/story_teller/refs/heads/main/CATEGORY/st_04.JPG",
       "audio_url": "https://drive.usercontent.google.com/download?id=1o3i1JY-4WO8PQSvPNCv51tw47RPHI2qG",
-      "title": "test4"
+      "title": "Moral Stories"
     },
     {
       "id": 5,
       "image_url": "https://raw.githubusercontent.com/saneeshmssngist/story_teller/refs/heads/main/CATEGORY/st_05.JPG",
       "audio_url": "https://drive.usercontent.google.com/download?id=1o3i1JY-4WO8PQSvPNCv51tw47RPHI2qG",
-      "title": "test4"
+      "title": "Travel Stories"
     },
     {
       "id": 6,
-      "image_url": "https://raw.githubusercontent.com/saneeshmssngist/story_teller/refs/heads/main/CATEGORY/st_06.JPG",
+      "image_url": "https://raw.githubusercontent.com/saneeshmssngist/story_teller/refs/heads/main/CATEGORY/st_03.JPG",
       "audio_url": "https://drive.usercontent.google.com/download?id=1o3i1JY-4WO8PQSvPNCv51tw47RPHI2qG",
-      "title": "test4"
+      "title": "Panchatantra Stories"
     },
     {
       "id": 7,
-      "image_url": "https://raw.githubusercontent.com/saneeshmssngist/story_teller/refs/heads/main/CATEGORY/st_07.JPG",
+       "image_url": "https://raw.githubusercontent.com/saneeshmssngist/story_teller/refs/heads/main/CATEGORY/st_02.JPG",
       "audio_url": "https://drive.usercontent.google.com/download?id=1o3i1JY-4WO8PQSvPNCv51tw47RPHI2qG",
-      "title": "test4"
+      "title": "Short Stories"
     },
     {
       "id": 8,
       "image_url": "https://raw.githubusercontent.com/saneeshmssngist/story_teller/refs/heads/main/CATEGORY/st_08.JPG",
       "audio_url": "https://drive.usercontent.google.com/download?id=1o3i1JY-4WO8PQSvPNCv51tw47RPHI2qG",
-      "title": "test4"
+      "title": "Animal Stories"
     }
   ]
 }
