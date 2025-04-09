@@ -2,7 +2,7 @@
   "data": [
     {
       "id": 1,
-      "image_url": "https://drive.usercontent.google.com/download?id=1KkiMtVgisU-7navNKgNG-l3jyE5bwr6W",
+      "image_url": "https://raw.githubusercontent.com/saneeshmssngist/story_teller/refs/heads/main/IMG_001.JPG",
       "audio_url": "https://drive.usercontent.google.com/download?id=1o3i1JY-4WO8PQSvPNCv51tw47RPHI2qG",
       "title": "test1"
     },
